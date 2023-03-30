@@ -1,7 +1,7 @@
 from user import User
 from post import Post
 
-app_user_one = User("nn@nn.com", "Nana Janashia", "pwd1", "DevOps Engineer")
+app_user_one = User("nn@nn.com", "emmanuel kamto", "pwd1", "DevOps Engineer")
 app_user_one.get_user_info()
 
 app_user_two = User("aa@aa.com", "James Bond", "supersecret", "Agent")
